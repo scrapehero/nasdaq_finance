@@ -66,8 +66,8 @@ python3 masdaq_finance.py aapl
 ```
 ## Sample Output
 
-This will create a csv file:
+This will create a json file:
 
-[Sample Output]()
+[Sample Output](https://raw.githubusercontent.com/scrapehero/nasdaq_finance/master/AAPL-summary.json)
  
  
