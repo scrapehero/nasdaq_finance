@@ -11,7 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 This nasdaq scraper can extract the fields below
 
 1. Best Bid/Ask
-2.1 Year Target
+2. 1 Year Target
 3. Share Volume
 4. 50 Day Avg. Daily Volume
 5. Previous Close
