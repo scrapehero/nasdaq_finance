@@ -40,8 +40,10 @@ Below are the package requirements:
 
 ### Installation
 
-PIP to install the following packages in Python (https://pip.pypa.io/en/stable/installing/)
-Python Requests, to make requests and download the HTML content of the pages (http://docs.python-requests.org/en/master/user/install/).
+PIP to install the following packages in Python (https://pip.pypa.io/en/stable/installing/) 
+
+Python Requests, to make requests and download the HTML content of the pages (http://docs.python-requests.org/en/master/user/install/)
+
 Python LXML, for parsing the HTML Tree Structure using Xpaths (Learn how to install that here – http://lxml.de/installation.html)
 
 ## Running the scraper
