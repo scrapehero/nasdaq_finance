@@ -40,22 +40,9 @@ Below are the package requirements:
 
 ### Installation
 
-PIP to install the following packages in Python (https://pip.pypa.io/en/stable/installing/).
-
+PIP to install the following packages in Python (https://pip.pypa.io/en/stable/installing/)
 Python Requests, to make requests and download the HTML content of the pages (http://docs.python-requests.org/en/master/user/install/).
-
-To install python request module:
-
-```
-pip3 install requests
-```
-
 Python LXML, for parsing the HTML Tree Structure using Xpaths (Learn how to install that here – http://lxml.de/installation.html)
-Installing lxml:
-
-```
-pip3 install lxml
-```
 
 ## Running the scraper
 We would execute the code with the script name followed by the ticker symbol of the company’s stock data you would like. As an example
