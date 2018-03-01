@@ -1,0 +1,27 @@
+{
+    "company_name": "Apple Inc.",
+    "ticker": "AAPL",
+    "url": "http://www.nasdaq.com/symbol/AAPL",
+    "open price": "$ 167.24",
+    "open_date": "Feb. 1, 2018",
+    "close_price": "$ 167.43",
+    "close_date": "Jan. 31, 2018",
+    "key_stock_data": {
+        "Best Bid / Ask": "$ 167.95 / $ 167.96",
+        "1 Year Target": "193",
+        "Today's High / Low": "$ 168.26 / $ 166.76",
+        "Share Volume": "15,654,756",
+        "50 Day Avg. Daily Volume": "28,511,634",
+        "Previous Close": "$ 167.43",
+        "52 Week High / Low": "$ 180.10 / $ 127.01",
+        "Market Cap": "854,371,055,200",
+        "P/E Ratio": "18.26",
+        "Forward P/E (1y)": "15.04",
+        "Earnings Per Share (EPS)": "$ 9.20",
+        "Annualized Dividend": "$ 2.52",
+        "Ex Dividend Date": "11/10/2017",
+        "Dividend Payment Date": "11/16/2017",
+        "Current Yield": "1.51 %",
+        "Beta": "1.27"
+    }
+}
